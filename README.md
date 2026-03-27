@@ -152,17 +152,14 @@ October 6 University, Faculty of Computer Science
 - 🇪🇬 **Arabic**: Native
 - 🇬🇧 **English**: B1 – Intermediate
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=hema0101&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hema0101&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hema0101&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-
 </div>
+-->
 
 <!--
 ## 🐍 Contribution Snake
