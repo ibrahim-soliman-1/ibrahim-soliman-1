@@ -9,9 +9,9 @@
 [![Location](https://img.shields.io/badge/📍_Location-Qaliuobia,_Egypt-blue?style=for-the-badge)](https://maps.google.com/?q=Qaliuobia,Egypt)
 [![Email](https://img.shields.io/badge/Email-ibrahimsoliman236@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahimsoliman236@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-+20_115_170_3160-green?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+201151703160)
-[![GitHub](https://img.shields.io/badge/GitHub-ibrahim-soliman-1-181717?style=for-the-badge&logo=github)](https://github.com/ibrahim-soliman-1)
+[![GitHub](https://img.shields.io/badge/GitHub-hema0101-181717?style=for-the-badge&logo=github)](https://github.com/hema0101)
 
-<img src="https://komarev.com/ghpvc/?username=ibrahim-soliman-1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=hema0101&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
 ---
 
@@ -127,7 +127,7 @@ Foundation training covering core computer science principles
 ### 📋 Kafiil Task Manager
 **Full-Stack Task Management Application**
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_App-success?style=flat-square)](https://github.com/ibrahim-soliman-1)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_App-success?style=flat-square)](https://github.com/hema0101)
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -156,7 +156,7 @@ October 6 University, Faculty of Computer Science
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ibrahim-soliman-1&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=hema0101&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
 </div>
 -->
@@ -167,9 +167,9 @@ October 6 University, Faculty of Computer Science
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ibrahim-soliman-1/ibrahim-soliman-1/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ibrahim-soliman-1/ibrahim-soliman-1/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ibrahim-soliman-1/ibrahim-soliman-1/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hema0101/hema0101/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hema0101/hema0101/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hema0101/hema0101/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
@@ -178,7 +178,7 @@ October 6 University, Faculty of Computer Science
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahim-soliman-1&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hema0101&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 
 </div>
 -->
@@ -191,7 +191,7 @@ I'm always interested in connecting with fellow developers, DevOps enthusiasts, 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibrahimsoliman236@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ibrahim-soliman-1)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hema0101)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ibrahim-soliman)
 
 </div>
@@ -204,6 +204,6 @@ I'm always interested in connecting with fellow developers, DevOps enthusiasts, 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
-⭐️ From [Ibrahim Soliman](https://github.com/ibrahim-soliman-1)
+⭐️ From [Ibrahim Soliman](https://github.com/hema0101)
 
 </div>
