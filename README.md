@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ibrahim%20Soliman&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=DevOps%20Engineer%20%26%20Frontend%20Developer&descAlignY=51&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ibrahim%20Soliman&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=DevOps%20Engineer%20%2B%20Frontend%20Developer&descAlignY=51&descAlign=50" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;DevOps+%26+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Frontend+Developer+%F0%9F%92%BB;Building+Scalable+Solutions+%F0%9F%9A%80;Automation+%26+CI%2FCD+Expert+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;DevOps+%2B+Cloud+Enthusiast+%E2%98%81%EF%B8%8F;Frontend+Developer+%F0%9F%92%BB;Building+Scalable+Solutions+%F0%9F%9A%80;Automation+%2B+CI/CD+Expert+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
 
 <br/>
 
